@@ -21,8 +21,8 @@
         android:background="@drawable/sign_in_bg"
         android:drawableStart="@drawable/person_24px"
         android:drawablePadding="8dp"
-        android:textColor="@color/black"
-        android:drawableTint="@color/black"
+        android:textColor="@color/white"
+        android:drawableTint="@color/white"
         android:fontFamily="@font/abel" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
